@@ -1,0 +1,2 @@
+package S01L03_Primitive_DataType;public class S01L05_primitive_datatype_boolean_char {
+}
