@@ -1,7 +1,8 @@
 package S01L03_Primitive_DataType;
 
-public class primitive_datatype_float {
+public class S01L04_primitive_datatype_float {
     public static void main(String[] args) {
-        System.out.println();
+        float value1 = 1.2f;
+        System.out.println(value1);
     }
 }

@@ -1,6 +1,6 @@
 package S02L01_Arithmatic_operators;
 
-public class S02L01_AO_P_1 {
+public class S02L01_AO {
     public static void main(String[] args) {
 
         // Declare and initialize variables
